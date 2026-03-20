@@ -1,4 +1,4 @@
-# 📊 Executive Sales Dashboard | Power BI
+# 📊 Ecommerce Sales Analysis | Power BI
 
 ## 🚀 Project Overview
 
